@@ -7,7 +7,9 @@
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-```https://github.com/HzCUDI/kodluyoruzilkrepo```
+```bash
+https://github.com/HzCUDI/kodluyoruzilkrepo
+```
 
 ## Usage
 
