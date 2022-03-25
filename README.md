@@ -5,7 +5,7 @@
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 https://github.com/HzCUDI/kodluyoruzilkrepo
